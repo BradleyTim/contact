@@ -1,2 +1,2 @@
 # contact
-sample contact form in php
+Sample Contact Form in php
